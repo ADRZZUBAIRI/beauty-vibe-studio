@@ -1,0 +1,9 @@
+{
+  "name": "beauty-vibe-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Beauty Vibe Studio - Luxury Beauty, Facials & Brow Salon Showcase",
+  "scripts": {
+    "deploy": "npx wrangler deploy"
+  }
+}
